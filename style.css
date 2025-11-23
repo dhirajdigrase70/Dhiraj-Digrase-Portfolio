@@ -7,7 +7,6 @@ body {
 /* h1{
     position: fixed;
 } */
-
 header {
     background-color: #333;
     color: #fff;
@@ -25,7 +24,7 @@ nav ul {
 nav ul li {
     display: inline;
     margin: 0 10px;
-    background-color: green ;
+    background-color: green;
     /* padding: 0.3rem; */
     border-radius: 5%;
     padding-left: 0.5rem;
@@ -55,5 +54,3 @@ footer {
     height: 1rem;
     /* bottom: 0; */
 }
-
-
